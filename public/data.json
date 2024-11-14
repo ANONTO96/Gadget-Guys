@@ -1,0 +1,206 @@
+[
+    {
+      "product_id": 1,
+      "product_title": "iPhone 13 Pro Max",
+      "product_image": "https://i.ibb.co.com/jD66071/iphone-13-pro-max-328530-600x.webp",
+      "category": "Smartphone",
+      "price": 1099.99,
+      "description": "Apple iPhone 13 Pro Max with a 6.7-inch Super Retina XDR display and A15 Bionic chip.",
+      "Specification": [
+        "6.7-inch Super Retina XDR Display",
+        "6GB RAM",
+        "128GB Storage",
+        "4352mAh Battery",
+        "Triple Camera (12MP + 12MP + 12MP)"
+      ],
+      "availability": true,
+      "rating": 9.9
+    },
+    {
+      "product_id": 2,
+      "product_title": "iPhone 13 Pro",
+      "product_image": "https://i.ibb.co.com/ws4CmxM/3412-69420.jpg",
+      "category": "Smartphone",
+      "price": 999.99,
+      "description": "Apple iPhone 13 Pro with a 6.1-inch Super Retina XDR display and ProMotion technology.",
+      "Specification": [
+        "6.1-inch Super Retina XDR Display",
+        "6GB RAM",
+        "128GB Storage",
+        "3095mAh Battery",
+        "Triple Camera (12MP + 12MP + 12MP)"
+      ],
+      "availability": true,
+      "rating": 9.8
+    },
+    {
+      "product_id": 3,
+      "product_title": "iPhone 13",
+      "product_image": "https://i.ibb.co.com/mT9y0gr/download.jpg",
+      "category": "Smartphone",
+      "price": 799.99,
+      "description": "Apple iPhone 13 with a 6.1-inch Super Retina XDR display and dual-camera system.",
+      "Specification": [
+        "6.1-inch Super Retina XDR Display",
+        "4GB RAM",
+        "128GB Storage",
+        "3240mAh Battery",
+        "Dual Camera (12MP + 12MP)"
+      ],
+      "availability": true,
+      "rating": 9.7
+    },
+    {
+      "product_id": 4,
+      "product_title": "iPhone 12 Pro Max",
+      "product_image": "https://i.ibb.co.com/Zd9mLMP/download-1.jpg",
+      "category": "Smartphone",
+      "price": 1099.99,
+      "description": "Apple iPhone 12 Pro Max with a 6.7-inch Super Retina XDR display and A14 Bionic chip.",
+      "Specification": [
+        "6.7-inch Super Retina XDR Display",
+        "6GB RAM",
+        "128GB Storage",
+        "3687mAh Battery",
+        "Triple Camera (12MP + 12MP + 12MP)"
+      ],
+      "availability": true,
+      "rating": 9.8
+    },
+    {
+      "product_id": 5,
+      "product_title": "iPhone 12",
+      "product_image": "https://i.ibb.co.com/nk2cT3M/download-2.jpg",
+      "category": "Smartphone",
+      "price": 699.99,
+      "description": "Apple iPhone 12 with a 6.1-inch Super Retina XDR display and 5G connectivity.",
+      "Specification": [
+        "6.1-inch Super Retina XDR Display",
+        "4GB RAM",
+        "128GB Storage",
+        "2815mAh Battery",
+        "Dual Camera (12MP + 12MP)"
+      ],
+      "availability": true,
+      "rating": 9.7
+    },
+    {
+      "product_id": 6,
+      "product_title": "iPhone SE (2022)",
+      "product_image": "https://i.ibb.co.com/KzP0Cgg/download-3.jpg",
+      "category": "Smartphone",
+      "price": 429.99,
+      "description": "Apple iPhone SE (2022) with A15 Bionic chip and classic iPhone design.",
+      "Specification": [
+        "4.7-inch Retina HD Display",
+        "4GB RAM",
+        "64GB Storage",
+        "2018mAh Battery",
+        "Single Camera (12MP)"
+      ],
+      "availability": true,
+      "rating": 9.5
+    },
+    {
+      "product_id": 7,
+      "product_title": "iPhone 11 Pro Max",
+      "product_image": "https://i.ibb.co.com/C9B6jNX/download-4.jpg",
+      "category": "Smartphone",
+      "price": 999.99,
+      "description": "Apple iPhone 11 Pro Max with a 6.5-inch Super Retina XDR display and triple-camera system.",
+      "Specification": [
+        "6.5-inch Super Retina XDR Display",
+        "4GB RAM",
+        "64GB Storage",
+        "3969mAh Battery",
+        "Triple Camera (12MP + 12MP + 12MP)"
+      ],
+      "availability": false,
+      "rating": 9.6
+    },
+    {
+      "product_id": 8,
+      "product_title": "MacBook Air (M1, 2020)",
+      "product_image": "https://i.ibb.co.com/YTX25rm/download-5.jpg",
+      "category": "Laptop",
+      "price": 999.99,
+      "description": "Apple MacBook Air with M1 chip, delivering powerful performance in a lightweight design.",
+      "Specification": [
+        "13.3-inch Retina Display",
+        "8GB RAM",
+        "256GB SSD",
+        "Apple M1 Chip",
+        "Up to 18 hours battery life"
+      ],
+      "availability": true,
+      "rating": 9.9
+    },
+    {
+      "product_id": 9,
+      "product_title": "MacBook Pro 13-inch (M1, 2020)",
+      "product_image": "https://i.ibb.co.com/pbKRcxV/download-6.jpg",
+      "category": "Laptop",
+      "price": 1299.99,
+      "description": "Apple MacBook Pro 13-inch with M1 chip, for impressive power and battery life.",
+      "Specification": [
+        "13.3-inch Retina Display",
+        "8GB RAM",
+        "256GB SSD",
+        "Apple M1 Chip",
+        "Up to 20 hours battery life"
+      ],
+      "availability": true,
+      "rating": 9.8
+    },
+    {
+      "product_id": 10,
+      "product_title": "MacBook Pro 14-inch (M1 Pro, 2021)",
+      "product_image": "https://i.ibb.co.com/4TsT4sp/download-7.jpg",
+      "category": "Laptop",
+      "price": 1999.99,
+      "description": "Apple MacBook Pro 14-inch with M1 Pro chip for high-performance tasks.",
+      "Specification": [
+        "14-inch Liquid Retina XDR Display",
+        "16GB RAM",
+        "512GB SSD",
+        "Apple M1 Pro Chip",
+        "Up to 17 hours battery life"
+      ],
+      "availability": true,
+      "rating": 9.9
+    },
+    {
+      "product_id": 11,
+      "product_title": "MacBook Pro 16-inch (M1 Max, 2021)",
+      "product_image": "https://i.ibb.co.com/4Z8vNCc/download-8.jpg",
+      "category": "Laptop",
+      "price": 3499.99,
+      "description": "Apple MacBook Pro 16-inch with M1 Max chip, perfect for power users and professionals.",
+      "Specification": [
+        "16-inch Liquid Retina XDR Display",
+        "32GB RAM",
+        "1TB SSD",
+        "Apple M1 Max Chip",
+        "Up to 21 hours battery life"
+      ],
+      "availability": true,
+      "rating": 9.9
+    },
+    {
+      "product_id": 12,
+      "product_title": "iPad Pro 12.9-inch (M1, 2021)",
+      "product_image": "https://i.ibb.co.com/xXmMh7c/download-9.jpg",
+      "category": "Tablet",
+      "price": 1099.99,
+      "description": "Apple iPad Pro with M1 chip, offering desktop-class power in a tablet form.",
+      "Specification": [
+        "12.9-inch Liquid Retina XDR Display",
+        "8GB RAM",
+        "128GB Storage",
+        "Apple M1 Chip",
+        "Up to 10 hours battery life"
+      ],
+      "availability": true,
+      "rating": 9.8
+    }
+  ]

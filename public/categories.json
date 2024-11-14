@@ -1,0 +1,13 @@
+[
+    {
+      "id": 1,
+      "category": "Smartphone",
+      "slug": "Smartphone"
+    
+    },
+    {
+      "product_id": 2,
+      "category": "Laptop",
+      "slug": "Laptop"
+    }
+  ]
